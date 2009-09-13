@@ -1,0 +1,1 @@
+A plugin for displaying ads from text-link-ads.com
